@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "wigglerng"
+version = "0.1.0"
+description = ""
+authors = ["Yubraj Bhandari <yb107@duke.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+qiskit = "^1.2.4"
+qiskit-ibm-runtime = "^0.30.0"
+qiskit-aer = "^0.15.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
