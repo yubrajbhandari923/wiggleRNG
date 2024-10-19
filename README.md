@@ -67,10 +67,7 @@ Based on our findings, we propose the following improvements:
 - Yubraj Bhandari
 - Pritesh Thakur
 
-## License
-
-(Specify the license under which this project is released)
 
 ## Acknowledgments
 
-We would like to thank IBM for providing access to their quantum computers through the IBM Quantum Experience platform.
+We would like to thank SCQuantum for hosting the hackathon, Dorahacks for the challenge and IBM for providing access to their quantum computers through the IBM Quantum Experience platform.
