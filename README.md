@@ -62,13 +62,10 @@ Based on our findings, we propose the following improvements:
 - Matplotlib
 - Pandas
 
-## Usage
-
-(Include instructions on how to run your QRNG and analysis scripts)
-
 ## Contributors
-
-(List the names of project contributors)
+- Sampada Wagle
+- Yubraj Bhandari
+- Pritesh Thakur
 
 ## License
 
