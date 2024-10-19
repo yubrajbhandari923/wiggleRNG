@@ -1,5 +1,3 @@
-Here's a README file for your quantum random number generator project repository:
-
 # Quantum Random Number Generator (QRNG)
 
 This repository contains the implementation and analysis of a quantum random number generator using IBM's quantum computers.
